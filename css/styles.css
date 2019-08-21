@@ -50,3 +50,16 @@
     height: 75px;
     padding: 30px 0 5px 10px;
 }
+
+
+@media only screen and (min-width: 768px) {
+    .promo {
+        background-color: blue;
+    }
+} 
+
+@media only screen and (min-width: 875px) {
+    .promo {
+        background-color: burlywood;
+    }
+} 
